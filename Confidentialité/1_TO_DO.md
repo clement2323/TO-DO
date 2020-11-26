@@ -1,1 +1,3 @@
-# A faire, lire document de MAxime
+# A faire
+- lire documents de Maxime
+- Initier le latex

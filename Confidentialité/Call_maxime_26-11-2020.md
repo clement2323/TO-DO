@@ -1,2 +1,2 @@
 # A faire
-- Lire documents MAxime Beauté placés dans GT carroyage
+- Lire documents Maxime Beauté placés dans GT carroyage

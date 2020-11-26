@@ -4,3 +4,4 @@
 - Relire certains papiers pour le phrasé new zealand Michel rieffert, sergio L
 - Doc confidentialité anglais, introduction : décoration échéance fin janvier/ début février. 
 
+# Prochains RDV
