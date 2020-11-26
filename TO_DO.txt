@@ -1,0 +1,106 @@
+!christian Reg parler de la définition -> attente de sa réponse
+Doc de travail pour aurélien
+#répondre stéphanie pour fonds de carte-> DOM ?
+#Traduction Insee focus anglais Pujol Séverine
+
+#Ecrire note pls précses georef
+#Ecrire synthèse du taf sur l'ONU
+#Répondre au GT avec Daniel Levy et Cazaubiel ?
+#Point Martin carroyage ? !! !! Se renseigner !!! -> 19 Novembre
+
+#9h30
+#Aujourd'hui, écriture pour Vincent, puis écriture pour Sonia géoréférencement.
+Fromentin Maud Osteopathe  18 rue Riviere 86220 Dangé Saint Romain 0687395032
+
+# Demnder rdv à Patrick en bilatéral !!
+# Réunion Georeferencement demander anne thérèse, appeler Martin pour lui parler des galères.. +démotivation
+# Marc Groupe de travail briefé, fin Décembre point MArtin Ch
+# M.a.j Sonia
+
+
+Axelle pas avant Février,
+Vincent Pilote ONU
+
+#ONU GLOBAL
+
+Au niveau le plus eleve UNGGIM gestion mondiale de l'information géographique -> ce sont des IGN qui participent à ça, toute l'info géographique
+En dessous il y a plein de truc qui travaillent : niveau en dessous EGISGI Expert group integration statistical Geographic information, c'est là qui est Vincent  piloté par Allemagne et Namibie
+En dessous, EGISGI a mis en place des tasks teams  une sur la confidentialité (la notre, michel et sergio allemagne et mexique), une capicity building piloté par gear mostrom
+Workstream : autre type de task team : common geographies(piloté par canada, murphy), geocoding (joshua goutts), interoperability (steven gale)
+
+questionnaire transfére par Vincent emanant de la capacity building task team reutilisable pour le questionnaire que l'on veut pour la task team confidentiality. 
+Insérer dans le questionnaire un bloc sur la confidentialité. Contraintes : On a 15 jours pour faire ça ! format word bloc de questions bien identifié !
+On travaillera avec les allemands (rieffert) et les mexicains.
+
+#Geostat 4 (piloté par les finlandais dans son ensemble par Rina) : au niveau européen c'est un ESSNET Eurostat, But général ; implémenter le global statiscal framework ONu (GSGIS), au niveau Européen.
+Un ESSNET est décliné en plusieurs workpackage :
+WP1  il y a déjà des standards qui existent en terme de process/orga, question est ce qu'on doit adapter ces standards à la géographie ? Participants français : franck cotton, Arnaud Degorre, marie helene, Piloté par la Finlande)
+WP2  objectif + général pas compris avec une sous partie sondages et géographie avec les portugais (PRENDRE TOTALEMENT LA MAIN) (contact portugais : Anna dos santos)
+Rq : de manière globale à géostat 4 tlm taf dans son coin  mais il n'y a pas de points spécifiques sur la confidentialité et il faudrait la faire apparaitre car elle n'avait pas clairement été identifié dans l'ESSNET mais Rina a demandé à Vincent
+de réfléchir à comment intégrer l confidentialité dans les workpackage.
+Donc 2 pts : Sondage avec Portugais, pt confidentialité.
+#dire que à tlm au niveau international que je debute.
+
+#STACE : Centre d'excellence sur les données europénnes, séries temporelles, Centre excellence sur confidentialité en fin de vie en Juin.
+Pour leur redonner vie -> Eurostat les a réuni STACE, c'est la bulgarie qui fait la partie admnistrative, time series france, confidentialité Pays bas. 
+Il y aura de la géographie dans leur programme de travail.
+
+# Doc confidentialité anglais, introduction : décoration échéance fin janvier/ début février. (copine suedoise marion, impliquée avant)
+
+# Confidentialité en parler avec PAtrick, charge de travail, parler aussi de la répartition temporelle de tout ça, à savoir données satt ONU,
+#REUNION LUNDI du WP1, REUNION DU 7 DECEMBRE.
+
+#WORKSHOP IGN Rien à voir avec le reste : lancé par l'IGN qui voulait en donner une dimension Européenne. Vincent à proposé au Finlandais d'y participer,
+Dans les cochair il y a benedicte bucher (IGN et s'occupe de tout ce qui est recherche), valerie macon meteo france, Rina la finlandaise, et VL loonis (cest VL qui a demandé à Rina)
+CE qu'on a compris c'est qu'on doit trouver un sujet qui fasse intervenir statistique météo gographie et éventuellement DONNEES SATELLITES.
+Ce qu'on doit faire organiser le challenge du workshop du moi de mai. On doit identifier un sujet et fournir les données associées ce qui donne un challenge sur lequel le monde entier
+aura 3 mois. ça donne envie niveau données satellits. sujets sur la différence d'info entre des sources, par exemple Openstreet map et IGN ?
+D'où le mail envoyé aux DR -> NAntes OCcitanies MArseille  ont répondu favorablement. Réunion de Mardi:)
+
+# Autre chose, préparer à partir du mois de février, typologie type "Tabard" , Groupe de travail ? Même chose que enrichir les fichiers denquetes au niveau communales.
+but rajouter des variables contextuelles au niveau du carreau, dans fideli par exemple on rahjouterait pourchaque logement une onformation sur les carreaux qui l'entoure.
+En parler avec Patrick, il faut faire et etre sur que je sois identifié comme pilote du truc! Attention avec le DAR, reunion de mardi avec david levy (ne parle pas trop dans le groupe de travail de mardi).
+(utiliser MAster MAelle)
+
+#PRENDRE CONTACT AVEC MICHEL qui ades idées de question Michel riferst : Destatis , task team. Sara guessing fait partie du STACE. katherin cochair EGiISGI 
+Destatis : insee allemand, Katherin gerburt cochair del'EIISGI
+
+#Question quality assurance framework , considérez vous spécifiquement la géographie comme une information identifiante, dans la statistcal law , framework statistic.
+# Quand tu diffuses des fichiers est ce que tu f	is g	ffe à ça , cf nous on met que le département ?
+# rappeler secret primaire,  est-ce que dans la gestion du secret primaire vous prenez en compte la dimension géographique ? (voir avec maxime)
+# si oui utilisez vous des méthodes de perturbations ou des méthodes d'grégations, swappez vous avec des gens proches ?
+# Secret secondaire : rappeler quand vous utilisez le secret secondaire ? est ce que oui ou non vous diffusez selon des géographies non standard (en dehors de contours administratifs).
+#contour à la demande (preciser la problematique dans la question)
+# si oui prenez vous conscience du secret secondaire et de l'éventuelle 
+# 3) Avez vos des besoins spécifiques en matière de formation sur la confidentialité en matiere de geographie et en termes de logiciels utilisés.
+# avoir bien en tete le mail de ierker ou il donne la structure du questionn	ire.
+
+#Avec maxime michel et sergio, mettre en place le premier draft d'ici l fin de semaine.
+
+#Groupe de Taf 
+
+#One note, slides powerpoint pour axelle, 3 , 15 minutes.
+#Guymrarc gael pour GT carreaux.
+#To do faure marie emmnuel
+# renvoyer avec réfigeo faure marie emmanuelle,
+# reponse contestation  le rural n'a plus d'importance david levy e copie de la réponse.
+#sebstien Gossiaux, celine arnold tortosa thomas dans l réunion.
+#doc IGN
+
+#pop carreaux dans la tache -> patrick sillard ?
+
+TO DO
+
+#INSEE en anglais!
+#finir d'envoyer le mail avec shp et UU
+#questionnaire ONU et répondre michel Rieffert !
+#3 slides de 15 min pour présentr section à Axelle 
+#Réunion georef totros celine =, sonia marc vincent, seb gossiaux "n'hésitez pas à inviter uqi veut" -> chiffre et document de taf à écrire
+#Sonia contestation
+#REp maelle stéphanie hérant, martin calendrier
+appeler Pierre LAmarche !!
+
+#Réuion Georef vite,
+#Questionnaire
+#MArc branchu question pour gt carreaux, double calage derriere methodes fines,  modele niveau loigement ?
+#Majf uu vite.
