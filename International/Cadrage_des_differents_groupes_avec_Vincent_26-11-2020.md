@@ -12,7 +12,7 @@ Insérer dans le questionnaire un bloc sur la confidentialité. Contraintes : On
 
 # Geostat 4 (piloté par les finlandais dans son ensemble par Rina) : au niveau européen c'est un ESSNET Eurostat, But général ; implémenter le global statiscal framework ONu (GSGIS), au niveau Européen.
 - Un ESSNET est décliné en plusieurs workpackage :
-    - WP1  il y a déjà des standards qui existent en terme de process/orga, question est ce qu'on doit adapter ces standards à la géographie ? Participants français : franck cotton, Arnaud Degorre, marie helene, Piloté par la Finlande)
+    - WP1  il y a déjà des standards qui existent en terme de process/orga, question est ce qu'on doit adapter ces standards à la géographie ? Participants français : franck cotton, Arnaud Degorre, marie helene, Piloté par la Finlande Rina)
     -WP2  objectif + général pas compris avec une sous partie sondages et géographie avec les portugais (PRENDRE TOTALEMENT LA MAIN) (contact portugais : Anna dos santos)
 - Rq : de manière globale à géostat 4 tlm taf dans son coin  mais il n'y a pas de points spécifiques sur la confidentialité et il faudrait la faire apparaitre car elle n'avait pas clairement été identifié dans l'ESSNET mais Rina a demandé à Vincent
 de réfléchir à comment intégrer l confidentialité dans les workpackage.
