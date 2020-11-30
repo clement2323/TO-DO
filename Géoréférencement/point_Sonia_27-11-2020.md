@@ -31,8 +31,6 @@
 # 1 millions 700 000 qui n'ont pas d'appariement au final
 # Mercredi prochain, rdv indicatrice
 
-# Anne-Thérèse retoquer la réponse à la demande.
-
 # planning provisoire sur Rocket chat, la moitié du temps en général ! 
 # Bio informatique statistique, dynamique des populations !
 

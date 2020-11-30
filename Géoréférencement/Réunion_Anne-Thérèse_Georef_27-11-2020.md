@@ -32,12 +32,11 @@ Avant bd parcellaire puis plan cadastral ?
 
 # Logements à envoyer que sur le géocodage Que à géocodage,
 
-
 # Comparaison entre geocodage à nous VS bonne qualité géoloc
 
 # Bonne qualité geoloc ? geoloc fournit des indicateurs qualité de son géocodage, lorsqu'il géoréférence par l'adresse. Note sur les indicateurs qualité.
 
-# Cas où on est sûr de notre géocodage et que geoloc l'est aussi  avec une information différente on n'est plus sûrde notre géocodage.
+# Cas où on est sûr de notre géocodage et que geoloc l'est aussi  avec une information différente on n'est plus sûr de notre géocodage.
 - Geoloc s'appuie sur le référentiel RIL Pour les communes de plus 10000 habitants et sur Fideli 2015 pour les petites communes demoins de 10000 et les locaux des entreprises (le RIL ne couvre que les méages)
 - Intérêt de passer à géoloc lorsqu'on est pas dans le RIL, et il y a des cas où le caastre est pas forcément meilleur que le RIL et réciproquement.
 - Pour ces logements on risque de garder des imputations.. reprise manuelle

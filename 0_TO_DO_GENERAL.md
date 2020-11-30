@@ -2,21 +2,55 @@
 # ajouts des fichiers de prise de note de chaque réunion dans les espaces adaptés, autorisation de créer des notes adhoc non classées si effacées dans la journée , (puces * -)
 
 # à faire dans la journée :
-- insee focus chapo en anglais dire qu'on est pas expert pour ça
-
+- données pour IGN
+- Explication codes programmes, chgmt_zone à élucidr Sonia schémas, slides etc.. comptes 2019.
+- Chaussons Tim 43, aller  voir la clio année 2007 ou c'est mort?
+- osteo maud
+- dossier pour proprio
 
 # A faire
-- FUCKING REUNION georef!!
+- Point sur Git avec Aurélien pk ça push pas ? ou Martin
+- Point Sonia mercredi
+- FUCKING REUNION georef!! Schéma et tutoi couinti
 - Doc confidentialité pour Axelle Chauvet
-- Anne thérèse défintions Rmés
-
-- Mise à jour UU
-- Préparer réunion Axelle Chauvet, contexte GT carreaux, etc..
-- Traduction Insee focus anglais Pujol Séverine
-- Entretien Patrick en bilatéral -> Taf avec le coeur agents non motivés..
-- Rep hérant stéphanie dire merci
+- Mise à jour UU programme faire travailler marc desuss? 
 - Finir l'orga avec les contacts et les notes non reprises.
-- Point sur Git avec Aurélien pk ça push pas ?
 - Call Pramoche pour carto/R
 - mettre en Copie carroyage du RP axelle.
--Traduction titre et chapo de l'IF. quand bien meme on fit ce qu'on peut en anglais c'est à eux de le faire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Petit code pour voir toutes les balises en Markdown
+* copier coller (ctrl shift p markdown pour l'afficher) sur word easy
+**gras** 
+# lol
+* lol
+- lol
+$\alpha = \pi$
+*italique*
+_italique_
+* test
+    * test
+    * test
+        * test
+1. lol
+2. lol
+    * boom
+`printf()`  -> altgR7 pour les accents graves
+> lalala
+Rendez-vous sur le [Site du Zéro](http://www.siteduzero.com) pour tout apprendre à partir de Zéro !
+
+# image
+![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
+------------------  
