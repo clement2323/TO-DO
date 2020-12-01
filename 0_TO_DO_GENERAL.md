@@ -2,24 +2,29 @@
 # ajouts des fichiers de prise de note de chaque réunion dans les espaces adaptés, autorisation de créer des notes adhoc non classées si effacées dans la journée , (puces * -)
 
 # à faire dans la journée :
+-  Répondre Anna Smyk 
+-  schéma imputation, connaitre la population des imputées,
+-  ecriture sur projet 
+-  checker codes sonia
+
 - données pour IGN
+- call Sonia ce matin
+- taf confidentialité maxime
 - Explication codes programmes, chgmt_zone à élucidr Sonia schémas, slides etc.. comptes 2019.
 - Chaussons Tim 43, aller  voir la clio année 2007 ou c'est mort?
 - osteo maud
-- dossier pour proprio
+
 
 # A faire
+- Doc de travail Sonia UU
 - Point sur Git avec Aurélien pk ça push pas ? ou Martin
 - Point Sonia mercredi
 - FUCKING REUNION georef!! Schéma et tutoi couinti
-- Doc confidentialité pour Axelle Chauvet
+- Doc confidentialité analyse spatiale pour Axelle Chauvet
 - Mise à jour UU programme faire travailler marc desuss? 
-- Finir l'orga avec les contacts et les notes non reprises.
+- Finir l'orga avec les contacts et les notes non reprises. :!!!!!!! tous les GT etc..
 - Call Pramoche pour carto/R
 - mettre en Copie carroyage du RP axelle.
-
-
-
 
 
 
