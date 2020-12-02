@@ -2,27 +2,28 @@
 # ajouts des fichiers de prise de note de chaque réunion dans les espaces adaptés, autorisation de créer des notes adhoc non classées si effacées dans la journée , (puces * -)
 
 # à faire dans la journée :
--  Répondre Anna Smyk 
--  schéma imputation, connaitre la population des imputées,
--  ecriture sur projet 
--  checker codes sonia
-
+- Mail DR IGN avant Jeudi
+- PHONE VOITURE !!!
+- dl anaconda ? ou clone le git Marl sur z:/ et on a python avec VSC
+- schéma imputation, connaitre la population des imputées,
+- comparaison imputés avec base totale requete comptage SQL via sonia
+- ecriture sur projet, ecriture sur comptages tableaux questions associées, les FIP surreprésentés?
+- checker codes sonia
 - données pour IGN
 - call Sonia ce matin
 - taf confidentialité maxime
 - Explication codes programmes, chgmt_zone à élucidr Sonia schémas, slides etc.. comptes 2019.
-- Chaussons Tim 43, aller  voir la clio année 2007 ou c'est mort?
-- osteo maud
-
+- faire un document pluis complet qui décrit les non imputés
+  
 
 # A faire
 - Doc de travail Sonia UU
-- Point sur Git avec Aurélien pk ça push pas ? ou Martin
+- Python sur PC perso ?
 - Point Sonia mercredi
-- FUCKING REUNION georef!! Schéma et tutoi couinti
+- FUCKING REUNION georef!! Schéma et tuti cuinti
 - Doc confidentialité analyse spatiale pour Axelle Chauvet
 - Mise à jour UU programme faire travailler marc desuss? 
-- Finir l'orga avec les contacts et les notes non reprises. :!!!!!!! tous les GT etc..
+- Finir l'orga avec les contacts et les notes non reprises. :!!!!!!! contact de tous les GT etc..
 - Call Pramoche pour carto/R
 - mettre en Copie carroyage du RP axelle.
 
@@ -30,7 +31,7 @@
 
 
 
-
+ 
 
 
 

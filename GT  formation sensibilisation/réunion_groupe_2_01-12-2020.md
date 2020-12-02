@@ -25,3 +25,9 @@ Sortir quelques études où la mioyenne dis un truc au national et que l'observa
 - savoir produire et analyser des informations dans des découpages spatiaux ou et territoriaux
 
 - shiny, plotly
+
+
+# But maintenant se positionner sur des thèmes, chercher des exemples, défricher des items jusqu'à la prochaine réunion fixée en Janvier, travail au moins en binôme
+# En différer choisir
+
+

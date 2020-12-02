@@ -19,5 +19,6 @@
 
 - carto de bug de géocodage etc..se lon la parcelle, tracer une ville avec son déoopage en parcelles
 - tracer un iris une parcelle etc..
-
+-RIVOLI code rue1 https://www.guichetdusavoir.org/viewtopic.php?t=10868
+-MAJIC LMise à jour des informations cadastrales
 # Prochains RDV
